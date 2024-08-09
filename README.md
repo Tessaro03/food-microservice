@@ -54,7 +54,7 @@ git clone https://github.com/Tessaro03/docker-compose-food.git
 
 Navegue até o diretório do projeto clonado:
 ```sh
-cd Docker-Compose-food-microservice
+cd docker-compose-food
 ```
 
 Execute o comando para subir os serviços utilizando Docker Compose:
