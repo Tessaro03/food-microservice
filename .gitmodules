@@ -1,0 +1,24 @@
+[submodule "avaliacao_microservice"]
+	path = avaliacao_microservice
+	url = https://github.com/Tessaro03/avaliacao_microservice
+[submodule "pedidos_microservice"]
+	path = pedidos_microservice
+	url = https://github.com/Tessaro03/pedidos_microservice
+[submodule "produto_microservice"]
+	path = produto_microservice
+	url = https://github.com/Tessaro03/produto_microservice
+[submodule "pagamentos_microservice"]
+	path = pagamentos_microservice
+	url = https://github.com/Tessaro03/pagamentos_microservice
+[submodule "eureka"]
+	path = eureka
+	url = https://github.com/Tessaro03/eureka
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/Tessaro03/gateway
+[submodule "docker-compose"]
+	path = docker-compose
+	url = https://github.com/Tessaro03/docker-compose-food
+[submodule "user_microservice"]
+	path = user_microservice
+	url = https://github.com/Tessaro03/user-microservice
