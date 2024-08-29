@@ -57,6 +57,7 @@ O Gateway é responsável por rotear as requisições para os serviços apropria
 - 📫 RabbitMQ
 - 🌐 Eureka (Spring Cloud Netflix)
 - 🚪 Spring Cloud Gateway
+- 🧪 JUnit e Mockito
 
 ## ▶️ Como Rodar o Projeto
 
